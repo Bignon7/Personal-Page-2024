@@ -65,9 +65,9 @@ window.addEventListener("click", (event) => {
 // Typing effect
 const textDisplay = document.getElementById("textDisplay");
 const phrases = [
-  "Bonjour, je suis développeur.",
-  "Je crée des sites web.",
-  "Bienvenue sur mon profil.",
+  "Hi, I'm an actor.",
+  "I'm a model.",
+  "Welcome to my profile page.",
 ];
 let currentPhraseIndex = 0;
 let currentLetterIndex = 0;
